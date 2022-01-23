@@ -1,0 +1,229 @@
+.img1 
+{
+	background-image: url('../img/top-pattern-150.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+
+.ms 
+{
+	margin-left: 750px;
+}
+.fw
+{
+	font-size: 20px;
+}
+/*.mf 
+{
+	margin-left: 1000px;
+}
+
+*/
+
+.img2 
+{
+  background-image: url('../img/header-pattern-150.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img3 
+{
+	background-image: url('../img/intro-background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.img4
+{
+   background-image: url('../img/header-pattern-150.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.header 
+{
+	 background-image: url('../img/header-pattern-150.png');
+}
+.vh-50 
+{
+	height: 60vh;
+}
+.width 
+{
+	width: 200px;
+}
+.vh-10 
+{
+	height: 10vh;
+}
+.vh-200
+{
+	height: 180vh;
+}
+
+
+.position
+{
+	position: absolute;
+}
+.relative
+{
+   position : relative;
+   top: 30px;
+   margin-left: 30px;
+}
+.img5 
+{
+	background-image: url('../img/top-pattern-150.png');
+
+	/*height: 70vh;*/
+}
+.height 
+{
+	height: 80vh;
+}
+.height2 
+{
+	height: 10vh;
+}
+.height3
+{
+	height:70vh;
+}
+.hei 
+{
+	height: 50vh;
+}
+.demo3 
+{
+	background-image: url('../img/top-pattern-150.png');
+	height: 50px;
+}
+.w3
+{
+	width: 200px;
+	height: 100px;
+}
+.b 
+{ 
+	
+	height: 40px;
+	background-color: green;
+	border-radius: 15px;
+	width: 100px;
+}
+.position1
+{
+	position: relative;
+	top: 300px;
+
+}
+.ht1 
+{
+	width: 110px;
+}
+
+
+@media only screen and (max-width: 576px)
+{
+	.vh-200
+	{
+		height: auto;
+	}
+	
+	.vh-50
+	{
+		height: 30vh;
+	}
+	.heigh
+	{
+		height: 180vh;
+	}
+	.heigh1
+	
+	{
+       height: 180vh;
+	}
+	.flex 
+	{
+		display: flex;
+		flex-direction: column;
+	}
+	.hei 
+	{
+		height: 140vh;
+		width: 100%;
+	}
+	.ht 
+	{
+		height: 140vh;
+		width: 100%;
+	}
+	.ht1 
+	{
+		position: relative;
+		left: -20px;
+		width:70%;
+		height: 180px;
+	}
+	.img3 
+{
+	background-image:none;
+	background-color: lightcoral;
+	height: 80vh;
+}
+.heigh4
+{
+	height: 25vh;
+}
+.ah 
+{
+	width: 100%;
+}
+.ml 
+{
+	margin-left: 10px;
+}
+.bc 
+{
+	height: 300px;
+	margin: 10px;
+}
+section 
+{
+	width: 100%;
+	overflow: hidden;
+}
+.b 
+{
+	position: relative;
+	bottom: 45px;
+}
+.m
+{
+	margin: 10px;
+}
+.width
+{
+	width: 100%;
+}
+.ms 
+{
+	margin-left:0;
+}
+.mt 
+{
+	position: relative;
+	left: -60px;
+}
+.p1 
+{
+	padding: 10px;
+}
+
+
+
+	
+}
